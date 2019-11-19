@@ -1,0 +1,25 @@
+#abc {
+    height: 100px;
+    width: 500px;
+    border: dotted red;
+
+}
+#ab {
+    height: 50px;
+    border: solid blue;
+    width: 300px;
+}
+#a {
+    height: 20px;
+    border: dotted black;
+    width: 100px;
+}
+#asdf {
+    height: 120px;
+    width: 550px;
+    border: solid #000000;
+    float: right;
+}
+#qwe {
+    width: 800px;
+}
